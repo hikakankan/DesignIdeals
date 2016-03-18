@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCEditor", "ABCEditor\ABCEditor.csproj", "{A097682E-042C-4DB8-A813-8C0D165583AB}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ABCEditorFSharp", "ABCEditorFSharp\ABCEditorFSharp.fsproj", "{7089ED7F-07BA-4292-8592-7D90AF83030A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A097682E-042C-4DB8-A813-8C0D165583AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A097682E-042C-4DB8-A813-8C0D165583AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A097682E-042C-4DB8-A813-8C0D165583AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A097682E-042C-4DB8-A813-8C0D165583AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7089ED7F-07BA-4292-8592-7D90AF83030A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7089ED7F-07BA-4292-8592-7D90AF83030A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7089ED7F-07BA-4292-8592-7D90AF83030A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7089ED7F-07BA-4292-8592-7D90AF83030A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
